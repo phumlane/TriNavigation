@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TriNavigation</string>
+    <string name="navigation" translatable="false">mapbox://styles/mapbox/navigation-guidance-day-v4</string>
+
+</resources>

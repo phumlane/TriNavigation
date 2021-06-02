@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "536394276755",
+    "firebase_url": "https://trinavigation.firebaseio.com",
+    "project_id": "trinavigation",
+    "storage_bucket": "trinavigation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536394276755:android:33babcba3f6aebdb809266",
+        "android_client_info": {
+          "package_name": "com.example.trinavigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536394276755-mp8hjslf7pk2rbv9pam0pkrvnpag0vb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trinavigation",
+            "certificate_hash": "2051163cd317e04c4d6fb2e906a6f20ed1cf87ab"
+          }
+        },
+        {
+          "client_id": "536394276755-r0m3bhaqcav33jqigphlfoqs6qjhd1op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trinavigation",
+            "certificate_hash": "6b6d5107e556e90635cbaa444bc8ddf73163bc02"
+          }
+        },
+        {
+          "client_id": "536394276755-896sdi2q19hts564tcll3875iqsm3e3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt_KF0sAHX_n4XeGqVQGRn3f2GxikWVNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536394276755-896sdi2q19hts564tcll3875iqsm3e3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

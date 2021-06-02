@@ -1,0 +1,4 @@
+#Fri Nov 13 16:24:45 CAT 2020
+base.0=C\:\\Users\\18013284\\Desktop\\New Application\\TriNavigation\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
